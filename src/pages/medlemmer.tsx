@@ -46,9 +46,10 @@ export default function HomePage() {
 
 			<h1 class="text-3xl mt-12 sm:(mt-28 text-6xl)">BFN</h1>
 			<p class="text-3xl mt-6 mb-6">Medlemmer av BFN!</p>
-			<div class="grid gap-4 max-w-[350px] mx-auto md:(grid-rows-1 grid-cols-5 max-w-full m-6)">
+			<div class="grid gap-4 max-w-[350px] mx-auto pb-6 md:(grid-rows-3 grid-cols-3 max-w-full justify-items-center)">
 				<a
-					href="#"
+					href="https://leaguestats.gg/summoner/euw/Joikakaken125"
+					target="_blank"
 					class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
 				>
 					<img
@@ -62,16 +63,24 @@ export default function HomePage() {
 					</p>
 				</a>
 				<a
-					href="#"
-					class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
+					href="https://leaguestats.gg/summoner/euw/HllStriker"
+					target="_blank"
+					class="block min-w-[24rem] p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
 				>
 					<img
 						class="w-10 h-10 rounded-full"
 						src="https://i.bo3.no/image/343051/user.png?c=1&h=120&w=120"
 						alt="Rounded avatar"
 					></img>
-					<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">HellStriker</h5>
-					<p class="font-normal text-gray-700 dark:text-gray-400">Registrerte seg 14. mars 2019 Nasjonalitet Norge</p>
+					<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white text-left">HellStriker</h5>
+					<div class="flex w-1/2 items-center">
+						<img class="max-h-8" src="https://i.bo3.no/image/267193/lol.svg?c=0&h=20&w=20" alt="" />
+						<p class="text-gray-400 ml-3">HllStriker</p>
+					</div>
+					<div class="flex w-1/2 items-center mt-4">
+						<img class="max-h-8" src="https://i.bo3.no/image/267167/discord.svg?c=0&h=22.857142857142858&w=20" alt="" />
+						<p class="text-gray-400 ml-3">Spammy#7474</p>
+					</div>
 				</a>
 				<a
 					href="#"
@@ -113,12 +122,63 @@ export default function HomePage() {
 					<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Kitty</h5>
 					<p class="font-normal text-gray-700 dark:text-gray-400">Registrerte seg 27. august 2020 Nasjonalitet Norge</p>
 				</a>
+				<a
+					href="#"
+					class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
+				>
+					<img
+						class="w-10 h-10 rounded-full"
+						src="https://i.bo3.no/image/345166/Gener%28ape%29v5.png?c=1&h=120&w=120"
+						alt="Rounded avatar"
+					></img>
+					<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Tresha</h5>
+					<p class="font-normal text-gray-700 dark:text-gray-400">
+						Registrerte seg 27. januar 2023 Nasjonalitet Norge Hjemfylke Vestland
+					</p>
+				</a>
+				<a
+					href="#"
+					class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
+				>
+					<img
+						class="w-10 h-10 rounded-full"
+						src="https://i.bo3.no/image/345274/raul.jpg?c=1&h=120&w=120"
+						alt="Rounded avatar"
+					></img>
+					<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Kedar3n</h5>
+					<p class="font-normal text-gray-700 dark:text-gray-400">Registrerte seg 1. februar 2018 Nasjonalitet Norge</p>
+				</a>
+				<a
+					href="#"
+					class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
+				>
+					<img
+						class="w-10 h-10 rounded-full"
+						src="https://i.bo3.no/image/300101/bokuto-owl.jpg?c=1&h=120&w=120"
+						alt="Rounded avatar"
+					></img>
+					<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">BigPPAsian</h5>
+					<p class="font-normal text-gray-700 dark:text-gray-400">Registrerte seg 7. februar 2021 Nasjonalitet Norge</p>
+				</a>
+				<a
+					href="#"
+					class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
+				>
+					<img
+						class="w-10 h-10 rounded-full"
+						src="https://i.bo3.no/image/343051/user.png?c=1&h=120&w=120"
+						alt="Rounded avatar"
+					></img>
+					<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">burni02</h5>
+					<p class="font-normal text-gray-700 dark:text-gray-400">
+						Registrerte seg 5. november 2017 Nasjonalitet Norge
+					</p>
+				</a>
 			</div>
 			<embed
 				id="profile"
-				class=""
+				class="hidden md:( min-w-[1860px] min-h-[800px])"
 				src="https://leaguestats.gg/summoner/euw/Joikakaken125"
-				style="width:1860px; height: 800px;"
 			></embed>
 		</div>
 	);
