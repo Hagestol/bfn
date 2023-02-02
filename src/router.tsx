@@ -13,7 +13,7 @@ export default createBrowserRouter([
 		element: <TestPage />,
 	},
 	{
-		path: "/omoss",
+		path: "/resultat",
 		element: <OmOss />,
 	},
 ]);
