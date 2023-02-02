@@ -1,7 +1,7 @@
 import { createBrowserRouter } from "react-router-dom";
 import HomePage from "./pages/HomePage";
-import TestPage from "./pages/medlemmer";
-import OmOss from "./pages/resultat";
+import Medlemmer from "./pages/medlemmer";
+import Resultat from "./pages/resultat";
 
 export default createBrowserRouter([
 	{
@@ -10,10 +10,10 @@ export default createBrowserRouter([
 	},
 	{
 		path: "/medlemmer",
-		element: <TestPage />,
+		element: <Medlemmer />,
 	},
 	{
 		path: "/resultat",
-		element: <OmOss />,
+		element: <Resultat />,
 	},
 ]);

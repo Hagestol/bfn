@@ -1,4 +1,4 @@
-export default function HomePage() {
+export default function Medlemmer() {
 	return (
 		<div class="bg-gray-800 text-center  m-auto min-h-screen text-white">
 			<nav class="bg-white border-gray-200 px-2 sm:px-4 py-2.5 rounded dark:bg-gray-900">
