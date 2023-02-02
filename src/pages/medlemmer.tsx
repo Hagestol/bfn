@@ -46,11 +46,11 @@ export default function HomePage() {
 
 			<h1 class="text-3xl mt-12 sm:(mt-28 text-6xl)">BFN</h1>
 			<p class="text-3xl mt-6 mb-6">Medlemmer av BFN!</p>
-			<div class="grid gap-4 max-w-[350px] mx-auto pb-6 md:(grid-rows-3 grid-cols-3 max-w-full justify-items-center)">
+			<div class="grid gap-4 pb-6 justify-items-center md:(grid-rows-3 grid-cols-3 justify-items-center)">
 				<a
 					href="https://leaguestats.gg/summoner/euw/Joikakaken125"
 					target="_blank"
-					class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
+					class="block max-w-[350px] p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
 				>
 					<img
 						class="w-10 h-10 rounded-full"
@@ -65,7 +65,7 @@ export default function HomePage() {
 				<a
 					href="https://leaguestats.gg/summoner/euw/HllStriker"
 					target="_blank"
-					class="block min-w-[24rem] p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
+					class="block min-w-[350px] p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
 				>
 					<img
 						class="w-10 h-10 rounded-full"
@@ -84,7 +84,7 @@ export default function HomePage() {
 				</a>
 				<a
 					href="#"
-					class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
+					class="block max-w-[350px] p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
 				>
 					<img
 						class="w-10 h-10 rounded-full"
@@ -98,7 +98,7 @@ export default function HomePage() {
 				</a>
 				<a
 					href="#"
-					class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
+					class="block max-w-[350px] p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
 				>
 					<img
 						class="w-10 h-10 rounded-full"
@@ -112,7 +112,7 @@ export default function HomePage() {
 				</a>
 				<a
 					href="#"
-					class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
+					class="block max-w-[350px] p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
 				>
 					<img
 						class="w-10 h-10 rounded-full"
@@ -124,7 +124,7 @@ export default function HomePage() {
 				</a>
 				<a
 					href="#"
-					class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
+					class="block max-w-[350px] p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
 				>
 					<img
 						class="w-10 h-10 rounded-full"
@@ -138,7 +138,7 @@ export default function HomePage() {
 				</a>
 				<a
 					href="#"
-					class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
+					class="block max-w-[350px] p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
 				>
 					<img
 						class="w-10 h-10 rounded-full"
@@ -150,7 +150,7 @@ export default function HomePage() {
 				</a>
 				<a
 					href="#"
-					class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
+					class="block max-w-[350px] p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
 				>
 					<img
 						class="w-10 h-10 rounded-full"
@@ -162,7 +162,7 @@ export default function HomePage() {
 				</a>
 				<a
 					href="#"
-					class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
+					class="block max-w-[350px] p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
 				>
 					<img
 						class="w-10 h-10 rounded-full"
