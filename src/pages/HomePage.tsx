@@ -16,7 +16,7 @@ export default function HomePage() {
 							<li>
 								<a
 									href="/"
-									class="block py-2 pl-3 pr-4 text-white  rounded md:bg-transparent md:text-blue-700 md:p-0 dark:text-white hover:text-white"
+									class="block py-2 pl-3 pr-4 text-white rounded md:bg-transparent md:text-blue-700 md:p-0 dark:text-white hover:text-white"
 									aria-current="page"
 								>
 									Hjem
@@ -46,9 +46,9 @@ export default function HomePage() {
 
 			<h1 class="text-3xl mt-12 sm:(mt-28 text-6xl)">BFN</h1>
 			<p class="text-3xl mt-6">Det beste League of Legends laget!</p>
-			<p class="text-3xl mt-6">1-0</p>
+			<p class="text-3xl mt-6">2-0</p>
 			<div class="border(r-4 l-4 red-500) w-1/2 ml-auto mr-auto mt-14 text-2xl">
-				<p>Kort tekst</p>
+				<p>Undefeated Telialigaen</p>
 			</div>
 		</div>
 	);

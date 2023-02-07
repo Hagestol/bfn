@@ -45,7 +45,33 @@ export default function Resultat() {
 			</nav>
 			<h1 class="text-3xl mt-12 sm:(mt-28 text-6xl)">BFN</h1>
 			<p class="text-2xl md:(text-3xl mt-6)">Det beste League of Legends laget!</p>
-			<div class="md:(mt-10 min-h-[100px] grid grid-cols-1 gap-2 content-center place-items-center)">
+			<div class="md:(mt-10 min-h-[100px] grid grid-cols-1 grid-rows-2 gap-4 content-center place-items-center)">
+				<a
+					href="#"
+					class="md:(flex-col items-center justify-between block min-w-[800px] p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700)"
+				>
+					<div class="">
+						<div class="w-full text-lg font-semibold">Telialigaen Rekrutt: League of Legends - våren 2023</div> <br />
+						<div class="flex items-center">
+							<div class="w-1/3 text-red-500">Taper</div>
+							<img class="rounded-full" src="https://i.bo3.no/image/345432/BFN_squad_logo_2.png?c=1&h=42&w=42" alt="" />
+							<div class="w-1/3">31.jan.2023</div>
+							<img
+								class="rounded-full max-h-[42px]"
+								src="https://i.bo3.no/image/344475/sl_transparant.png?c=1&h=120&w=120"
+								alt=""
+							/>
+							<div class="w-1/3 text-green-500">Vinner</div>
+						</div>
+					</div>
+					<div class="">
+						<div class="flex items-center">
+							<div class="w-1/3">BFN LoL</div>
+							<div class="w-1/3">2 - 0</div>
+							<div class="w-1/3">Soundless Academy Team</div>
+						</div>
+					</div>
+				</a>
 				<a
 					href="#"
 					class="md:(flex-col items-center justify-between block min-w-[800px] p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700)"
