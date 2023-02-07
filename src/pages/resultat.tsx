@@ -53,15 +53,15 @@ export default function Resultat() {
 					<div class="">
 						<div class="w-full text-lg font-semibold">Telialigaen Rekrutt: League of Legends - våren 2023</div> <br />
 						<div class="flex items-center">
-							<div class="w-1/3 text-red-500">Taper</div>
+							<div class="w-1/3 text-green-500">Vinner</div>
 							<img class="rounded-full" src="https://i.bo3.no/image/345432/BFN_squad_logo_2.png?c=1&h=42&w=42" alt="" />
-							<div class="w-1/3">31.jan.2023</div>
+							<div class="w-1/3">07.feb.2023</div>
 							<img
 								class="rounded-full max-h-[42px]"
 								src="https://i.bo3.no/image/344475/sl_transparant.png?c=1&h=120&w=120"
 								alt=""
 							/>
-							<div class="w-1/3 text-green-500">Vinner</div>
+							<div class="w-1/3 text-red-500">Taper</div>
 						</div>
 					</div>
 					<div class="">
